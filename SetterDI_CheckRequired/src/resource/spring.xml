@@ -1,0 +1,12 @@
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+    "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+
+<beans> 
+    <bean class="org.springframework.beans.factory.annotation.RequiredAnnotationBeanPostProcessor"/>
+    <bean id="t" class="beans.Test">
+        <property name="username" value="Sourabh"/>
+        <property name="email" value="sourabh@gmail.com"/>
+        <!--<property name="father" value="Yashwant"/>-->
+        <property name="mother" value="Sangeeta"/>
+    </bean>
+</beans>
