@@ -1,0 +1,13 @@
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+    "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+
+<beans default-init-method="myInit" default-destroy-method="myDestroy">
+    <bean id="t" class="beans.Test">
+        <property name="drivername" value="MySQL.Driver"></property>
+        <property name="url" value="localhost:3306/database"></property>
+        <property name="username" value="root"></property>
+        <property name="password" value="root"></property>
+    </bean>
+    <bean id="t1" class="beans.Test1"/>
+    <bean id="t2" class="beans.Test2"/>
+</beans>
