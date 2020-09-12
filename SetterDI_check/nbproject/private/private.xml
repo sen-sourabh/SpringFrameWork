@@ -2,12 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/Sourabh/OneDrive/Documents/NetBeansProjects/SetterDI_check/src/MainTest/MainClass.java</file>
-            <file>file:/C:/Users/Sourabh/OneDrive/Documents/NetBeansProjects/SetterDI_check/src/beans/Engine.java</file>
-            <file>file:/C:/Users/Sourabh/OneDrive/Documents/NetBeansProjects/SetterDI_check/src/beans/Car.java</file>
-            <file>file:/C:/Users/Sourabh/OneDrive/Documents/NetBeansProjects/SetterDI_check/src/resource/engine.xml</file>
-            <file>file:/C:/Users/Sourabh/OneDrive/Documents/NetBeansProjects/SetterDI_check/src/resource/spring.xml</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
