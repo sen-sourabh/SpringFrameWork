@@ -5,7 +5,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 
 public class Car {
-    //@Qualifier("e1")
     @Resource
     private Enigne engine;  //No need to have setters or constructor here.
     public void printData() {
